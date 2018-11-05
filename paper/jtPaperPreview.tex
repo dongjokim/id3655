@@ -1,0 +1,87 @@
+\documentclass[ALICE,manyauthors]{cernphprep}
+
+\usepackage[comma,square,numbers,sort&compress]{natbib}
+
+\usepackage[T1]{fontenc} % if needed
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{lineno}
+\usepackage{subfigure}
+\usepackage[amssymb]{SIunits}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+% Custom commands to make typing the text easier
+\newcommand{\pp}{\ensuremath{\mbox{p\kern-0.05em p}}}
+\newcommand{\ppbar}{\ensuremath{\mathrm{p\kern-0.05em \bar{p}}}}
+\newcommand{\pPb}{\ensuremath{\mbox{p--Pb}}}
+\newcommand{\PbPb}{\ensuremath{\mbox{Pb--Pb}}}
+\newcommand{\sqrtS}{\ensuremath{\sqrt{s}}}
+\newcommand{\sqrtSnn}{\ensuremath{\sqrt{s_{\mathrm{NN}}}}}
+\newcommand{\sqrtSE}[2][TeV]{\ensuremath{\sqrtS = #2~\mathrm{#1}}}
+\newcommand{\sqrtSnnE}[2][TeV]{\ensuremath{\sqrtSnn = #2~\mathrm{#1}}}
+\newcommand{\GeVc}{\ensuremath{\mathrm{GeV}\kern-0.05em/\kern-0.02em c}}
+\def\pt#1{\ensuremath{p_{\rm T#1}}} 
+\def\jt#1{\ensuremath{j_{\rm T#1}}}
+\def\vjt#1{\ensuremath{\vec{j}_{\rm T#1}}}
+\def\kt#1{\ensuremath{k_{\rm T#1}}}
+\newcommand{\xlong} {\ensuremath{x_{\parallel}}}
+\def\mean#1{\left<#1\right>}
+\def\rms#1{\ensuremath{\sqrt{\left<#1^2\right>}}}
+\def\fig#1{Fig.~\ref{#1}}
+\def\eq#1{Eq.~\eqref{#1}}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%  Title page %%%%%%%%%%%%%%%%%%%%%%%%
+\begin{titlepage}
+%
+\PHyear{2018}
+\PHnumber{XXX}      % required, will be obtained from PH
+\PHdate{12 October}  % required, will be obtained from PH
+%
+
+%%% Put your own title + short title here:
+\title{Jet fragmentation transverse momentum measurements from di-hadron correlations in $\sqrtSE{7}$ $\pp$ and $\sqrtSnnE{5.02}$ $\pPb$ collisions}
+\ShortTitle{Jet fragmentation transverse momentum}   % appears on right page headers
+
+%%% Do not change the next lines
+\Collaboration{ALICE Collaboration\thanks{See Appendix~\ref{app:collab} for the list of collaboration members}}
+\ShortAuthor{ALICE Collaboration} % appears on left page headers, do not change
+
+\begin{abstract}
+The transverse structure of jets was studied via jet fragmentation transverse momentum ($\jt{}$) distributions, obtained using two-particle correlations in proton-proton and proton-lead collisions, measured with the ALICE experiment at the LHC. The highest transverse momentum particle in each event is used as the trigger particle and the region $3 < \pt{t} < 15\,\GeVc$ is explored in this study. The measured distributions show a clear narrow Gaussian component and a wide non-Gaussian one. Based on \textsc{Pythia} simulations, the narrow component can be related to non-perturbative hadronization and the wide component to quantum chromodynamical splitting. The width of the narrow component shows a weak dependence on the transverse momentum of the trigger particle, in agreement with the expectation of universality of the hadronization process. On the other hand, the width of the wide component shows a rising trend suggesting increased branching for higher transverse momentum. The results obtained in $\pp$ collisions at $\sqrtSE{7}$ and in $\pPb$ collisions at $\sqrtSnnE{5.02}$ are compatible within uncertainties and hence no significant cold nuclear matter effects are observed. The results are compared to previous measurements from CCOR and PHENIX as well as to \textsc{Pythia}~8 and Herwig~7 simulations.
+\end{abstract}
+\end{titlepage}
+\setcounter{page}{2}
+
+%%%%% Body of the article
+\input{jtPaperMainText.tex} 
+
+
+%%%%% acknowledgements
+\newenvironment{acknowledgement}{\relax}{\relax}
+\begin{acknowledgement}
+\section*{Acknowledgements}
+We wish to thank Torbjörn Sjöstrand for his help in defining a di-gluon initial state in \textsc{Pythia}~8.
+%\input{acknowledgements.tex}    %%%%%%% done by webmaster team
+\end{acknowledgement}
+
+%%%%%%%% Bibliography (In case of using bibtex generate the bbl requested by arXiv)
+\bibliographystyle{utphys}   % Remember we use title in the biblio
+\bibliography{biblio}
+%\input {bibliography.tex}  
+
+%%%%%%%%% appendix with author list
+\newpage
+\appendix
+%
+%\input{}               %%%%%%%%%%% put your appendices here
+%
+\section{The ALICE Collaboration}
+\label{app:collab}
+%\input{authorlist-preprint.tex}  %%%%%%% done by webmaster team
+\end{document}

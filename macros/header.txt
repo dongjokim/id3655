@@ -1,0 +1,13 @@
+*author: ADAM
+*reference: ARXIV: : 2018 # arXiv number
+*reference: CERN-EP-xxxx-xx : 2018 # preprint number
+*doi:
+*status: Encoded xx Nov 2018 by Dong Jo Kim for ALICE Publications
+*experiment: CERN-LHC-ALICE
+*detector: ALICE
+*spiresId:
+*inspireId:
+*cdsId:
+*durhamId:
+*title: Jet fragmentation transverse momentum measurements from di-hadron correlations in  $\sqrt{s}=7$ TeV pp and $\sqrt{s_{_{\rm NN}}}=5.02$ TeV p-Pb collisions
+*comment: CERN-LHC. The transverse structure of jets was studied via jet fragmentation transverse momentum ($j_{\rm T}$) distributions, obtained using two-particle correlations in proton-proton and proton-lead collisions, measured with the ALICE experiment at the LHC. The highest transverse momentum particle in each event is used as the trigger particle and the region $3 < p_{\rm T} < 15$ ~GeV/$c$ is explored in this study.

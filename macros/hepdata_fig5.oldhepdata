@@ -1,0 +1,249 @@
+*author: ADAM
+*reference: ARXIV: : 2018 # arXiv number
+*reference: CERN-EP-xxxx-xx : 2018 # preprint number
+*doi:
+*status: Encoded xx Nov 2018 by Dong Jo Kim for ALICE Publications
+*experiment: CERN-LHC-ALICE
+*detector: ALICE
+*spiresId:
+*inspireId:
+*cdsId:
+*durhamId:
+*title: Jet fragmentation transverse momentum measurements from di-hadron correlations in  $\sqrt{s}=7$ TeV pp and $\sqrt{s_{_{\rm NN}}}=5.02$ TeV p-Pb collisions
+*comment: CERN-LHC. The transverse structure of jets was studied via jet fragmentation transverse momentum ($j_{\rm T}$) distributions, obtained using two-particle correlations in proton-proton and proton-lead collisions, measured with the ALICE experiment at the LHC. The highest transverse momentum particle in each event is used as the trigger particle and the region $3 < p_{\rm T} < 15$ ~GeV/$c$ is explored in this study.
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-p collisions at 7 TeV with 0.2<xlong<0.4
+*reackey: P P --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.714911E-01 +- 1.530729E-03 (DSYS=3.836119E-02);
+4.0 TO 5.0;	4.187896E-01 +- 1.842830E-03 (DSYS=4.024190E-02);
+5.0 TO 6.0;	4.553001E-01 +- 2.378539E-03 (DSYS=4.095883E-02);
+6.0 TO 8.0;	4.832981E-01 +- 2.312559E-03 (DSYS=4.051573E-02);
+8.0 TO 10.0;	4.993557E-01 +- 4.684705E-03 (DSYS=3.986409E-02);
+10.0 TO 12.0;	4.984133E-01 +- 7.865315E-03 (DSYS=4.010627E-02);
+12.0 TO 15.0;	4.978129E-01 +- 1.188764E-02 (DSYS=4.091077E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-p collisions at 7 TeV with 0.4<xlong<0.6
+*reackey: P P --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.260354E-01 +- 1.361505E-03 (DSYS=3.362955E-02);
+4.0 TO 5.0;	3.316542E-01 +- 1.669504E-03 (DSYS=3.359062E-02);
+5.0 TO 6.0;	3.321965E-01 +- 2.292191E-03 (DSYS=3.317185E-02);
+6.0 TO 8.0;	3.420101E-01 +- 2.551727E-03 (DSYS=3.374788E-02);
+8.0 TO 10.0;	3.343197E-01 +- 5.214876E-03 (DSYS=6.835043E-02);
+10.0 TO 12.0;	3.413325E-01 +- 1.038625E-02 (DSYS=6.989677E-02);
+12.0 TO 15.0;	3.169389E-01 +- 1.348985E-02 (DSYS=6.510615E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-p collisions at 7 TeV with 0.6<xlong<1.0
+*reackey: P P --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.221953E-01 +- 1.179533E-03 (DSYS=1.732460E-02);
+4.0 TO 5.0;	3.106047E-01 +- 1.826297E-03 (DSYS=1.629592E-02);
+5.0 TO 6.0;	3.039146E-01 +- 3.230012E-03 (DSYS=1.630520E-02);
+6.0 TO 8.0;	3.116255E-01 +- 4.092091E-03 (DSYS=1.830422E-02);
+8.0 TO 10.0;	3.036045E-01 +- 7.253002E-03 (DSYS=2.193326E-02);
+10.0 TO 12.0;	2.981310E-01 +- 1.079177E-02 (DSYS=2.675432E-02);
+12.0 TO 15.0;	2.828629E-01 +- 3.891658E-02 (DSYS=3.187339E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-p collisions at 7 TeV with 0.2<xlong<0.4
+*reackey: P P --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	4.403084E-02 +- 1.618219E-03 (DSYS=2.128085E-02);
+4.0 TO 5.0;	6.164923E-02 +- 2.507060E-03 (DSYS=2.687663E-02);
+5.0 TO 6.0;	9.036296E-02 +- 3.784893E-03 (DSYS=3.513560E-02);
+6.0 TO 8.0;	1.051024E-01 +- 3.746197E-03 (DSYS=3.436827E-02);
+8.0 TO 10.0;	1.557305E-01 +- 7.210943E-03 (DSYS=3.648079E-02);
+10.0 TO 12.0;	1.405908E-01 +- 1.029089E-02 (DSYS=2.080831E-02);
+12.0 TO 15.0;	1.897138E-01 +- 1.355276E-02 (DSYS=1.609753E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-p collisions at 7 TeV with 0.4<xlong<0.6
+*reackey: P P --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	4.916347E-02 +- 1.944822E-03 (DSYS=2.286974E-02);
+4.0 TO 5.0;	6.562314E-02 +- 2.629335E-03 (DSYS=2.973399E-02);
+5.0 TO 6.0;	7.824424E-02 +- 3.552993E-03 (DSYS=3.455368E-02);
+6.0 TO 8.0;	7.938440E-02 +- 3.331978E-03 (DSYS=3.392891E-02);
+8.0 TO 10.0;	1.009340E-01 +- 6.061680E-03 (DSYS=4.118409E-02);
+10.0 TO 12.0;	9.576544E-02 +- 1.139059E-02 (DSYS=3.753803E-02);
+12.0 TO 15.0;	1.016754E-01 +- 1.411374E-02 (DSYS=3.842352E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-p collisions at 7 TeV with 0.6<xlong<1.0
+*reackey: P P --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P P --> CHARGED X
+*qual: SQRT(S) IN GEV : 7000
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	5.405624E-02 +- 1.731391E-03 (DSYS=7.386312E-03);
+4.0 TO 5.0;	7.761214E-02 +- 2.222052E-03 (DSYS=1.051472E-02);
+5.0 TO 6.0;	9.560367E-02 +- 4.498229E-03 (DSYS=1.292196E-02);
+6.0 TO 8.0;	1.004291E-01 +- 4.670177E-03 (DSYS=1.366349E-02);
+8.0 TO 10.0;	9.415123E-02 +- 7.729941E-03 (DSYS=1.320129E-02);
+10.0 TO 12.0;	9.380965E-02 +- 1.081631E-02 (DSYS=1.383248E-02);
+12.0 TO 15.0;	1.032941E-01 +- 4.040403E-02 (DSYS=1.644330E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-Pb collisions at 5.02 TeV with 0.2<xlong<0.4
+*reackey: P PB --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.622935E-01 +- 1.613461E-03 (DSYS=4.374179E-02);
+4.0 TO 5.0;	4.154373E-01 +- 1.936835E-03 (DSYS=4.631975E-02);
+5.0 TO 6.0;	4.581593E-01 +- 2.375479E-03 (DSYS=4.714362E-02);
+6.0 TO 8.0;	4.821253E-01 +- 2.217909E-03 (DSYS=4.483092E-02);
+8.0 TO 10.0;	5.081877E-01 +- 3.373697E-03 (DSYS=4.174124E-02);
+10.0 TO 12.0;	5.058796E-01 +- 6.221840E-03 (DSYS=3.972825E-02);
+12.0 TO 15.0;	4.923436E-01 +- 7.894614E-03 (DSYS=4.157566E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-Pb collisions at 5.02 TeV with 0.4<xlong<0.6
+*reackey: P PB --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.263019E-01 +- 1.423379E-03 (DSYS=4.154260E-02);
+4.0 TO 5.0;	3.307925E-01 +- 1.614684E-03 (DSYS=3.904830E-02);
+5.0 TO 6.0;	3.313589E-01 +- 1.709173E-03 (DSYS=3.705322E-02);
+6.0 TO 8.0;	3.336298E-01 +- 2.142501E-03 (DSYS=3.612801E-02);
+8.0 TO 10.0;	3.351188E-01 +- 4.540119E-03 (DSYS=3.635356E-02);
+10.0 TO 12.0;	3.211787E-01 +- 6.785357E-03 (DSYS=3.502088E-02);
+12.0 TO 15.0;	3.197852E-01 +- 9.863557E-03 (DSYS=3.520945E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for narrow component in p-Pb collisions at 5.02 TeV with 0.6<xlong<1.0
+*reackey: P PB --> CHARGED X
+*obskey: YieldNarrow
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield narrow
+*data: x : y
+3.0 TO 4.0;	3.183919E-01 +- 1.223123E-03 (DSYS=1.799394E-02);
+4.0 TO 5.0;	3.019923E-01 +- 1.514514E-03 (DSYS=1.615546E-02);
+5.0 TO 6.0;	2.910631E-01 +- 2.198402E-03 (DSYS=1.687129E-02);
+6.0 TO 8.0;	2.948240E-01 +- 2.883942E-03 (DSYS=1.742841E-02);
+8.0 TO 10.0;	2.959867E-01 +- 7.315760E-03 (DSYS=1.760984E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-Pb collisions at 5.02 TeV with 0.2<xlong<0.4
+*reackey: P PB --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	4.028034E-02 +- 1.761831E-03 (DSYS=2.209179E-02);
+4.0 TO 5.0;	6.250690E-02 +- 2.756709E-03 (DSYS=3.255721E-02);
+5.0 TO 6.0;	8.033424E-02 +- 3.942780E-03 (DSYS=3.968617E-02);
+6.0 TO 8.0;	1.058073E-01 +- 4.202876E-03 (DSYS=4.871079E-02);
+8.0 TO 10.0;	1.219471E-01 +- 5.862536E-03 (DSYS=5.043133E-02);
+10.0 TO 12.0;	1.412367E-01 +- 1.045843E-02 (DSYS=5.296331E-02);
+12.0 TO 15.0;	1.583425E-01 +- 1.035819E-02 (DSYS=5.440521E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-Pb collisions at 5.02 TeV with 0.4<xlong<0.6
+*reackey: P PB --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	4.643816E-02 +- 2.006313E-03 (DSYS=3.401900E-02);
+4.0 TO 5.0;	6.255811E-02 +- 3.060897E-03 (DSYS=3.957208E-02);
+5.0 TO 6.0;	6.979621E-02 +- 2.731477E-03 (DSYS=3.833681E-02);
+6.0 TO 8.0;	8.536255E-02 +- 3.156793E-03 (DSYS=3.856446E-02);
+8.0 TO 10.0;	1.054049E-01 +- 5.973873E-03 (DSYS=3.893356E-02);
+10.0 TO 12.0;	9.956413E-02 +- 7.983561E-03 (DSYS=2.820802E-02);
+12.0 TO 15.0;	9.231733E-02 +- 1.007317E-02 (DSYS=1.864599E-02);
+*dataend:
+
+*dataset:
+*location: Figure 5
+*dscomment: trigger particle momentum dependence of observables per-trigger yield for wide component in p-Pb collisions at 5.02 TeV with 0.6<xlong<1.0
+*reackey: P PB --> CHARGED X
+*obskey: YieldWide
+*qual: ETARAP : -0.8 TO 0.8
+*qual: RE : P PB --> CHARGED X
+*qual: SQRT(S)/NUCLEON IN GEV : 5020
+*xheader: PT IN GEV/C
+*yheader: Yield wide
+*data: x : y
+3.0 TO 4.0;	5.602634E-02 +- 1.840556E-03 (DSYS=1.054224E-02);
+4.0 TO 5.0;	7.317776E-02 +- 2.143850E-03 (DSYS=1.214796E-02);
+5.0 TO 6.0;	8.053220E-02 +- 3.325910E-03 (DSYS=1.111171E-02);
+6.0 TO 8.0;	8.855641E-02 +- 3.652888E-03 (DSYS=1.263640E-02);
+8.0 TO 10.0;	9.805623E-02 +- 8.004725E-03 (DSYS=1.230286E-02);
+*dataend:

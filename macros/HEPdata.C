@@ -1,4 +1,4 @@
-TString strFileName = "jtAnalysisFinalGraphs.root";
+TString strFileName = "jtAnalysisFixedFinalGraphs.root";
 
 const int NE = 2;
 const int NXlong = 3;

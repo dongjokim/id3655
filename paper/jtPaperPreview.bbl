@@ -1,0 +1,295 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{basicsofpqcd}
+Y.~L. Dokshitzer, V.~A. Khoze, A.~H. M{\"u}ller, and S.~I. Troian, {\em {Basics
+  of Perturbative QCD}}.
+\newblock Editions Fronti{\`e}res, Gif-sur-Yvette, France, 1991.
+
+\bibitem{introPythia81}
+T.~Sjöstrand, S.~Mrenna, and P.~Z. Skands, ``{A Brief Introduction to PYTHIA
+  8.1},'' \href{http://dx.doi.org/10.1016/j.cpc.2008.01.036}{{\em Comput. Phys.
+  Commun.} {\bfseries 178} (2008) 852--867},
+\href{http://arxiv.org/abs/0710.3820}{{\ttfamily arXiv:0710.3820 [hep-ph]}}.
+%%CITATION = ARXIV:0710.3820;%%.
+
+\bibitem{herwigManual}
+M.~Bahr {\em et~al.}, ``{Herwig++ Physics and Manual},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-008-0798-9}{{\em Eur. Phys. J.}
+  {\bfseries C58} (2008) 639--707},
+\href{http://arxiv.org/abs/0803.0883}{{\ttfamily arXiv:0803.0883 [hep-ph]}}.
+%%CITATION = ARXIV:0803.0883;%%.
+
+\bibitem{herwig7releaseNote}
+J.~Bellm {\em et~al.}, ``{Herwig 7.0/Herwig++ 3.0 release note},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-016-4018-8}{{\em Eur. Phys. J.}
+  {\bfseries C76} no.~4, (2016) 196},
+\href{http://arxiv.org/abs/1512.01178}{{\ttfamily arXiv:1512.01178 [hep-ph]}}.
+%%CITATION = ARXIV:1512.01178;%%.
+
+\bibitem{firstjtmeasurement}
+{\bfseries CCOR} Collaboration, A.~Angelis {\em et~al.}, ``{A Measurement of
+  the Transverse Momenta of Partons, and of Jet Fragmentation as a Function of
+  $\sqrt{s}$ in $p p$ Collisions},''
+\href{http://dx.doi.org/10.1016/0370-2693(80)90572-9}{{\em Phys. Lett.}
+  {\bfseries B97} (1980) 163--168}.
+%%CITATION = PHLTA,B97,163;%%.
+
+\bibitem{PHENIXjets}
+{\bfseries PHENIX} Collaboration, S.~S. Adler {\em et~al.}, ``{Jet properties
+  from dihadron correlations in p+p collisions at $\sqrt{s} =$ 200~GeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.74.072002}{{\em Phys. Rev.}
+  {\bfseries D74} (2006) 072002},
+\href{http://arxiv.org/abs/hep-ex/0605039}{{\ttfamily arXiv:hep-ex/0605039
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0605039;%%.
+
+\bibitem{phenixJtPAu}
+{\bfseries PHENIX} Collaboration, S.~S. Adler {\em et~al.}, ``{Jet structure
+  from dihadron correlations in d+Au collisions at s(NN)**(1/2) = 200-GeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.73.054903}{{\em Phys. Rev.}
+  {\bfseries C73} (2006) 054903},
+\href{http://arxiv.org/abs/nucl-ex/0510021}{{\ttfamily arXiv:nucl-ex/0510021
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0510021;%%.
+
+\bibitem{cdfpaper}
+{\bfseries CDF} Collaboration, T.~Aaltonen {\em et~al.}, ``{Measurement of the
+  $k_T$ Distribution of Particles in Jets Produced in $p\bar{p}$ Collisions at
+  $\sqrt{s}=1.96$-TeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.102.232002}{{\em Phys. Rev.
+  Lett.} {\bfseries 102} (2009) 232002},
+\href{http://arxiv.org/abs/0811.2820}{{\ttfamily arXiv:0811.2820 [hep-ex]}}.
+%%CITATION = ARXIV:0811.2820;%%.
+
+\bibitem{atlaksenJetit}
+{\bfseries ATLAS} Collaboration, A.~Angerami, ``{Measurement of Jets and Jet
+  Suppression in $\sqrt{s_{NN}}=2.76$ TeV Lead-Lead Collisions with the ATLAS
+  detector at the LHC},''
+  \href{http://dx.doi.org/10.1088/0954-3899/38/12/124085}{{\em J. Phys.}
+  {\bfseries G38} (2011) 124085},
+\href{http://arxiv.org/abs/1108.5191}{{\ttfamily arXiv:1108.5191 [nucl-ex]}}.
+%%CITATION = ARXIV:1108.5191;%%.
+
+\bibitem{eventGenerators}
+A.~Buckley {\em et~al.}, ``{General-purpose event generators for LHC
+  physics},'' \href{http://dx.doi.org/10.1016/j.physrep.2011.03.005}{{\em Phys.
+  Rept.} {\bfseries 504} (2011) 145--233},
+\href{http://arxiv.org/abs/1101.2599}{{\ttfamily arXiv:1101.2599 [hep-ph]}}.
+%%CITATION = ARXIV:1101.2599;%%.
+
+\bibitem{jetBroadeningPpb1}
+R.~Baier, Y.~L. Dokshitzer, A.~H. Mueller, S.~Peigne, and D.~Schiff,
+  ``{Radiative energy loss and p(T) broadening of high-energy partons in
+  nuclei},'' \href{http://dx.doi.org/10.1016/S0550-3213(96)00581-0}{{\em Nucl.
+  Phys.} {\bfseries B484} (1997) 265--282},
+\href{http://arxiv.org/abs/hep-ph/9608322}{{\ttfamily arXiv:hep-ph/9608322
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9608322;%%.
+
+\bibitem{introCgc}
+L.~D. McLerran and R.~Venugopalan, ``{Computing quark and gluon distribution
+  functions for very large nuclei},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.49.2233}{{\em Phys. Rev.} {\bfseries
+  D49} (1994) 2233--2241},
+\href{http://arxiv.org/abs/hep-ph/9309289}{{\ttfamily arXiv:hep-ph/9309289
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9309289;%%.
+
+\bibitem{eps09}
+K.~J. Eskola, H.~Paukkunen, and C.~A. Salgado, ``{EPS09: A New Generation of
+  NLO and LO Nuclear Parton Distribution Functions},''
+  \href{http://dx.doi.org/10.1088/1126-6708/2009/04/065}{{\em JHEP} {\bfseries
+  04} (2009) 065},
+\href{http://arxiv.org/abs/0902.4154}{{\ttfamily arXiv:0902.4154 [hep-ph]}}.
+%%CITATION = ARXIV:0902.4154;%%.
+
+\bibitem{thorstenBiasProceedings}
+T.~Renk, ``{Jet correlations — opportunities and pitfalls},''
+  \href{http://dx.doi.org/10.1016/j.nuclphysa.2014.09.066}{{\em Nucl. Phys.}
+  {\bfseries A932} (2014) 334--341},
+\href{http://arxiv.org/abs/1404.0793}{{\ttfamily arXiv:1404.0793 [hep-ph]}}.
+%%CITATION = ARXIV:1404.0793;%%.
+
+\bibitem{Renk:2011wp}
+T.~Renk and K.~J. Eskola, ``{Hard dihadron correlations in heavy-ion collisions
+  at RHIC and LHC},'' \href{http://dx.doi.org/10.1103/PhysRevC.84.054913}{{\em
+  Phys. Rev.} {\bfseries C84} (2011) 054913},
+\href{http://arxiv.org/abs/1106.1740}{{\ttfamily arXiv:1106.1740 [hep-ph]}}.
+%%CITATION = ARXIV:1106.1740;%%.
+
+\bibitem{aliceDetector}
+{\bfseries ALICE} Collaboration, K.~Aamodt {\em et~al.}, ``{The ALICE
+  experiment at the CERN LHC},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08002}{{\em JINST} {\bfseries
+  3} (2008) S08002}.
+%%CITATION = JINST,3,S08002;%%.
+
+\bibitem{alicePerformance}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Performance of the
+  ALICE Experiment at the CERN LHC},''
+  \href{http://dx.doi.org/10.1142/S0217751X14300440}{{\em Int. J. Mod. Phys.}
+  {\bfseries A29} (2014) 1430044},
+\href{http://arxiv.org/abs/1402.4476}{{\ttfamily arXiv:1402.4476 [nucl-ex]}}.
+%%CITATION = ARXIV:1402.4476;%%.
+
+\bibitem{aliceITS}
+{\bfseries ALICE} Collaboration, K.~Aamodt {\em et~al.}, ``{Alignment of the
+  ALICE Inner Tracking System with cosmic-ray tracks},''
+  \href{http://dx.doi.org/10.1088/1748-0221/5/03/P03003}{{\em JINST} {\bfseries
+  5} (2010) P03003},
+\href{http://arxiv.org/abs/1001.0502}{{\ttfamily arXiv:1001.0502
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1001.0502;%%.
+
+\bibitem{aliceTPC}
+J.~Alme {\em et~al.}, ``{The ALICE TPC, a large 3-dimensional tracking device
+  with fast readout for ultra-high multiplicity events},''
+  \href{http://dx.doi.org/10.1016/j.nima.2010.04.042}{{\em Nucl. Instrum.
+  Meth.} {\bfseries A622} (2010) 316--367},
+\href{http://arxiv.org/abs/1001.1950}{{\ttfamily arXiv:1001.1950
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1001.1950;%%.
+
+\bibitem{aliceBackgroundFluctuation}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Measurement of
+  Event Background Fluctuations for Charged Particle Jet Reconstruction in
+  Pb-Pb collisions at $\sqrt{s_{NN}} = 2.76$ TeV},''
+  \href{http://dx.doi.org/10.1007/JHEP03(2012)053}{{\em JHEP} {\bfseries 03}
+  (2012) 053},
+\href{http://arxiv.org/abs/1201.2423}{{\ttfamily arXiv:1201.2423 [hep-ex]}}.
+%%CITATION = ARXIV:1201.2423;%%.
+
+\bibitem{forwarddetectorsTdr}
+{\bfseries ALICE} Collaboration, P.~Cortese {\em et~al.}, ``{ALICE technical
+  design report on forward detectors: FMD, T0 and V0},''.
+  \url{http://cdsweb.cern.ch/record/781854}.
+
+\bibitem{ALICE:2011ac}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Underlying Event
+  measurements in $pp$ collisions at $\sqrt{s}=0.9$ and 7 TeV with the ALICE
+  experiment at the LHC},''
+  \href{http://dx.doi.org/10.1007/JHEP07(2012)116}{{\em JHEP} {\bfseries 07}
+  (2012) 116},
+\href{http://arxiv.org/abs/1112.2082}{{\ttfamily arXiv:1112.2082 [hep-ex]}}.
+%%CITATION = ARXIV:1112.2082;%%.
+
+\bibitem{hybridExplanation}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Long-range angular
+  correlations on the near and away side in $p$-Pb collisions at
+  $\sqrt{s_{NN}}=5.02$ TeV},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2013.01.012}{{\em Phys. Lett.}
+  {\bfseries B719} (2013) 29--41},
+\href{http://arxiv.org/abs/1212.2001}{{\ttfamily arXiv:1212.2001 [nucl-ex]}}.
+%%CITATION = ARXIV:1212.2001;%%.
+
+\bibitem{introPythia82}
+T.~Sjöstrand, S.~Ask, J.~R. Christiansen, R.~Corke, N.~Desai, P.~Ilten,
+  S.~Mrenna, S.~Prestel, C.~O. Rasmussen, and P.~Z. Skands, ``{An Introduction
+  to PYTHIA 8.2},'' \href{http://dx.doi.org/10.1016/j.cpc.2015.01.024}{{\em
+  Comput. Phys. Commun.} {\bfseries 191} (2015) 159--177},
+\href{http://arxiv.org/abs/1410.3012}{{\ttfamily arXiv:1410.3012 [hep-ph]}}.
+%%CITATION = ARXIV:1410.3012;%%.
+
+\bibitem{pythiaBig}
+T.~Sjostrand, S.~Mrenna, and P.~Z. Skands, ``{PYTHIA 6.4 Physics and Manual},''
+  \href{http://dx.doi.org/10.1088/1126-6708/2006/05/026}{{\em JHEP} {\bfseries
+  05} (2006) 026},
+\href{http://arxiv.org/abs/hep-ph/0603175}{{\ttfamily arXiv:hep-ph/0603175
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0603175;%%.
+
+\bibitem{dpmjet}
+S.~Roesler, R.~Engel, and J.~Ranft,
+  \href{http://dx.doi.org/10.1007/978-3-642-18211-2_166}{``{The Monte Carlo
+  event generator DPMJET-III},''} in {\em {Advanced Monte Carlo for radiation
+  physics, particle transport simulation and applications. Proceedings,
+  Conference, MC2000, Lisbon, Portugal, October 23-26, 2000}}, pp.~1033--1038.
+\newblock 2000.
+\newblock \href{http://arxiv.org/abs/hep-ph/0012252}{{\ttfamily
+  arXiv:hep-ph/0012252 [hep-ph]}}.
+\newblock
+\url{http://www-public.slac.stanford.edu/sciDoc/docMeta.aspx?slacPubNumber=SLAC-PUB-8740}.
+\newblock
+%%CITATION = HEP-PH/0012252;%%.
+
+\bibitem{geant}
+R.~Brun, F.~Bruyant, F.~Carminati, S.~Giani, M.~Maire, A.~McPherson,
+  G.~Patrick, and L.~Urban, ``{GEANT Detector Description and Simulation
+  Tool},''.
+\url{http://cds.cern.ch/record/1082634}.
+%%CITATION = CERN-W5013;%%.
+
+\bibitem{newPythiaShower}
+T.~Sjöstrand and P.~Z. Skands, ``{Transverse-momentum-ordered showers and
+  interleaved multiple interactions},''
+  \href{http://dx.doi.org/10.1140/epjc/s2004-02084-y}{{\em Eur. Phys. J.}
+  {\bfseries C39} (2005) 129--154},
+\href{http://arxiv.org/abs/hep-ph/0408302}{{\ttfamily arXiv:hep-ph/0408302
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0408302;%%.
+
+\bibitem{lundString}
+B.~Andersson, G.~Gustafson, G.~Ingelman, and T.~Sj{\"o}strand, ``{Parton
+  Fragmentation and String Dynamics},''
+\href{http://dx.doi.org/10.1016/0370-1573(83)90080-7}{{\em Phys.Rept.}
+  {\bfseries 97} (1983) 31--145}.
+%%CITATION = PRPLC,97,31;%%.
+
+\bibitem{spectrumReferencePp}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Energy Dependence
+  of the Transverse Momentum Distributions of Charged Particles in pp
+  Collisions Measured by ALICE},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2662-9}{{\em Eur. Phys. J.}
+  {\bfseries C73} no.~12, (2013) 2662},
+\href{http://arxiv.org/abs/1307.1093}{{\ttfamily arXiv:1307.1093 [nucl-ex]}}.
+%%CITATION = ARXIV:1307.1093;%%.
+
+\bibitem{spectrumReferencepPb}
+{\bfseries ALICE} Collaboration, B.~Abelev {\em et~al.}, ``{Transverse momentum
+  dependence of inclusive primary charged-particle production in p-Pb
+  collisions at $\sqrt{s_\mathrm{{NN}}}=5.02~\text {TeV}$},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-014-3054-5}{{\em Eur. Phys. J.}
+  {\bfseries C74} no.~9, (2014) 3054},
+\href{http://arxiv.org/abs/1405.2737}{{\ttfamily arXiv:1405.2737 [nucl-ex]}}.
+%%CITATION = ARXIV:1405.2737;%%.
+
+\bibitem{pythia4CTune}
+R.~Corke and T.~Sjostrand, ``{Interleaved Parton Showers and Tuning
+  Prospects},'' \href{http://dx.doi.org/10.1007/JHEP03(2011)032}{{\em JHEP}
+  {\bfseries 03} (2011) 032},
+\href{http://arxiv.org/abs/1011.1759}{{\ttfamily arXiv:1011.1759 [hep-ph]}}.
+%%CITATION = ARXIV:1011.1759;%%.
+
+\bibitem{pythiaMonashTune}
+P.~Skands, S.~Carrazza, and J.~Rojo, ``{Tuning PYTHIA 8.1: the Monash 2013
+  Tune},'' \href{http://dx.doi.org/10.1140/epjc/s10052-014-3024-y}{{\em Eur.
+  Phys. J.} {\bfseries C74} no.~8, (2014) 3024},
+\href{http://arxiv.org/abs/1404.5630}{{\ttfamily arXiv:1404.5630 [hep-ph]}}.
+%%CITATION = ARXIV:1404.5630;%%.
+
+\bibitem{jetBroadeningAA}
+C.~A. Salgado and U.~A. Wiedemann, ``{Medium modification of jet shapes and jet
+  multiplicities},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.93.042301}{{\em Phys. Rev. Lett.}
+  {\bfseries 93} (2004) 042301},
+\href{http://arxiv.org/abs/hep-ph/0310079}{{\ttfamily arXiv:hep-ph/0310079
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0310079;%%.
+
+\bibitem{antiangularOrdering}
+Y.~Mehtar-Tani, C.~A. Salgado, and K.~Tywoniuk, ``{Anti-angular ordering of
+  gluon radiation in QCD media},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.106.122002}{{\em Phys. Rev.
+  Lett.} {\bfseries 106} (2011) 122002},
+\href{http://arxiv.org/abs/1009.2965}{{\ttfamily arXiv:1009.2965 [hep-ph]}}.
+%%CITATION = ARXIV:1009.2965;%%.
+
+\bibitem{jetShapeQGP}
+Y.-T. Chien and I.~Vitev, ``{Towards the understanding of jet shapes and cross
+  sections in heavy ion collisions using soft-collinear effective theory},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2016)023}{{\em JHEP} {\bfseries 05}
+  (2016) 023},
+\href{http://arxiv.org/abs/1509.07257}{{\ttfamily arXiv:1509.07257 [hep-ph]}}.
+%%CITATION = ARXIV:1509.07257;%%.
+
+\end{thebibliography}\endgroup
